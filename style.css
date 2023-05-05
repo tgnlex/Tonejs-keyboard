@@ -1,0 +1,28 @@
+.container {
+  background-color: black;
+  width:  100vw;
+  height: 500px;
+  display: grid;
+}
+ .top {
+  background-color: black;
+  height: 80px;
+  width: 100%;
+  margin: none;
+  color: white;
+  font-size:36px;
+}
+.key-container {
+  display: flex; 
+}
+.key {
+  background-color: white;
+  height: 300px;
+  width: 100%;
+  border: solid;
+  padding-top: 70px;
+  margin-bottom: 0px;
+  margin-right: 10px;
+  text-align: center;
+  font-size: 100px;
+}
